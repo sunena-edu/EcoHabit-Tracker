@@ -1,10 +1,10 @@
 # EcoHabit-Tracker
 A python sustainability project that calculates your EcoScore, analyses daily habits, and promotes sustainable living through personalized recommendations
 
-##OBJECTIVE
+# OBJECTIVE
 EcoHabit Tracker is a project made to raise awareness about everyday environmental habits and encourage users to make more environmentally responsible choices.
 
-##FEATURES
+# FEATURES
 - EcoHabit questionnaire
 - EcoScore calculation(0-100)
 - Eco Level classification
@@ -12,7 +12,7 @@ EcoHabit Tracker is a project made to raise awareness about everyday environment
 - Data visualisation charts
 - Environmental impact summary
 
-##WORKING
+# WORKING
 1. user answers questions about their daily habits
 2. the program evaluates the responses
 3. an eco score is calculated from the input data
@@ -20,7 +20,7 @@ EcoHabit Tracker is a project made to raise awareness about everyday environment
 5. a chart visualises the user's environmental performances
 6. a user summary is introduced with personalised recommendations
 
-##QUESTIONNAIRE CATEGORIES
+# QUESTIONNAIRE CATEGORIES
 - plastic bottle usage
 - public transportation
 - video streaming habits
@@ -28,11 +28,12 @@ EcoHabit Tracker is a project made to raise awareness about everyday environment
 - energy conservations
 - water conservations
   
-##Technology Used
+# Technology Used
 -Python
 -Google Colab
 -Matplotlib
 
-##AUTHOR
+
+# AUTHOR
 Sunena M
 
