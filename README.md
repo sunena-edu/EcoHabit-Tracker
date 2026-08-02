@@ -29,9 +29,9 @@ EcoHabit Tracker is a project made to raise awareness about everyday environment
 - water conservations
   
 # Technology Used
--Python
--Google Colab
--Matplotlib
+- Python
+- Google Colab
+- Matplotlib
 
 
 # AUTHOR
